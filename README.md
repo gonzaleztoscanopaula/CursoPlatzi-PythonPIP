@@ -1,4 +1,4 @@
-# Proyecto JUEGO
+# Proyecto JUEGO: PIEDRA - PAPEL - TIJERA
 
 Para correr el juego ddebes seguir las siguientes instrucciones en la terminal: 
 
